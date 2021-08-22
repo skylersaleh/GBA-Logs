@@ -33,6 +33,3 @@ The logs correspond to the following roms:
 | kirby-boot-log.bin      | Kirby Return to Dream Land ROM      | Captured up to the HAL logo being displayed  |
 | redp-log.bin      | redp.gba       |   |
 | thumb-gang-log.bin      | thumb-gang-log.gba       |   |
-
-
-| Paragraph   | Text        |
