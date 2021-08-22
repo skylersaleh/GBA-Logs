@@ -22,7 +22,7 @@ These files were generated in NanoBoyAdvance by outputting register values in th
 - CPSR
 - SPSR (Same as CPSR for ARM modes without SPSR)
 
-The data is tightly packed contiguously, and there is no header or other data between instructions.
+The data is tightly packed contiguously, and there is no header or other data between instructions. Additionally, the BIOS was skipped while generating these logs. 
 
 The logs correspond to the following roms: 
 
