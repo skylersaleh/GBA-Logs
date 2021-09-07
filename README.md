@@ -1,7 +1,7 @@
 # GBA-Logs
 GBA-Logs for various test roms. 
 
-These files were generated in NanoBoyAdvance by outputting register values in the following order as uint32_t before each instruction was executed. 
+These files were generated in NanoBoyAdvance by outputting register values in the following order as uint32_t before each instruction was executed. If you do not do instruction pipeline emulation, skip the first two instructions (2x17x4 Bytes) in the log. 
 
 - r0
 - r1
@@ -32,4 +32,4 @@ The logs correspond to the following roms:
 | armwrestler-log.bin      | armwrestler.gba       | Just the portion to get to the menu screen  |
 | kirby-boot-log.bin      | Kirby Return to Dream Land ROM      | Captured up to the HAL logo being displayed  |
 | redp-log.bin      | redp.gba       |   |
-| thumb-gang-log.bin      | thumb-gang-log.gba       |   |
+| thumb-gang-log.bin      | thumb-gang.gba       |   |
