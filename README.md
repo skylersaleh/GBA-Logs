@@ -1,7 +1,7 @@
 # GBA-Logs
 GBA-Logs for various test roms. 
 
-These files were generated in NanoBoyAdvance by outputting register values in the following order as uint32_t before each instruction was executed. If you do not do instruction pipeline emulation, skip the first two instructions (2x17x4 Bytes) in the log. 
+These files were generated in NanoBoyAdvance by outputting register values in the following order as uint32_t before each instruction was executed. If you do not do instruction pipeline emulation, skip the first two instructions (2x18x4 Bytes) in the log. 
 
 - r0
 - r1
